@@ -20,7 +20,7 @@ function splash() {
   lay.AddChild( mbem );
   
   app.AddLayout( lay );
-  app.Wait( 0 );
+  app.Wait( 4 );
   go();
   
 }
